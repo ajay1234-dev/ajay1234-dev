@@ -78,7 +78,7 @@
      §2 · ABOUT ME
      ══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://raw.githubusercontent.com/ajay1234-dev/ajay1234-dev/main/assets/banner.gif" width="100%" alt="Ajay Singh Banner" width="200" alt="Coder GIF"/>
+<img align="right" src="https://raw.githubusercontent.com/ajay1234-dev/ajay1234-dev/main/assets/banner.gif" width="50%" alt="Ajay Singh Banner" width="100" alt="Coder GIF"/>
 
 ## 👨‍💻 &nbsp;About Me
 
