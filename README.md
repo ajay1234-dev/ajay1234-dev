@@ -26,10 +26,10 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Cloud Developer GIF" style="border-radius: 12px;" />
 
 ```yaml
-name:         Ajay Singh
+name:         Ajay Singh I
 title:        Cloud Engineer | Full Stack Developer
 location:     India 🇮🇳
-open_to:      Full-time | Internships | Freelance
+open_to:      Part-time | Internships | Freelance
 ```
 
 🔭 &nbsp;Currently building **cloud-native, scalable full-stack applications** on AWS  
@@ -185,8 +185,7 @@ open_to:      Full-time | Internships | Freelance
 - 🔐 HIPAA-compliant data architecture on AWS
 - 📊 Doctor dashboard with patient analytics
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay1234-dev/medimind-ai)
-[![Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-DEMO-LINK.com)
+[![Demo](https://img.shields.io/badge/Live_Demo-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)]([https://YOUR-DEMO-LINK.com](https://aimedimind.vercel.app/))
 
 </details>
 
@@ -216,7 +215,6 @@ open_to:      Full-time | Internships | Freelance
 - 📈 Compliance score dashboard with remediation guides
 - 🔔 Real-time compliance drift alerting
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay1234-dev/ai-ethics-checker)
 [![Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK.com)
 
 </details>
@@ -247,8 +245,7 @@ open_to:      Full-time | Internships | Freelance
 - 📊 Analytics: percentile rank, score history, heatmaps
 - 🏅 Badge & achievement engine with custom rules
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay1234-dev/leaderboard-system)
-[![Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK.com)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR-DEMO-LINK.com](https://hackintym-leaderboard.vercel.app/))
 
 </details>
 
@@ -278,9 +275,6 @@ open_to:      Full-time | Internships | Freelance
 - 🔄 Continuous learning pipeline on AWS SageMaker
 - 📤 One-click PDF diagnostic report export
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay1234-dev/skin-disease-classifier)
-[![Demo](https://img.shields.io/badge/Live_Demo-00EA64?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-DEMO-LINK.com)
-
 </details>
 
 <br/>
@@ -309,8 +303,6 @@ open_to:      Full-time | Internships | Freelance
 - 📊 Teacher dashboard: engagement heatmaps & at-risk alerts
 - 🎙️ Voice-to-text note capture with AI summarization
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay1234-dev/ai-classroom-assistant)
-[![Demo](https://img.shields.io/badge/Live_Demo-FFB800?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-DEMO-LINK.com)
 
 </details>
 
@@ -339,7 +331,6 @@ open_to:      Full-time | Internships | Freelance
 | ⭐ | Open Source Contributor |
 | 💡 | Full Stack Project Builder |
 | 🧠 | AI/ML Application Developer |
-| 🔧 | DevOps Pipeline Architect |
 
 </div>
 
