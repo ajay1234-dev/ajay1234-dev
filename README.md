@@ -1,25 +1,3 @@
-<!-- ============================================================
-     AJAY SINGH — PREMIUM GITHUB PROFILE README
-     Username: ajay1234-dev
-     Last Updated: 2025
-     ============================================================ -->
-
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║           ANIMATED BANNER — REPLACE BELOW               ║
-     ║  Recommended: Create at https://levityapp.com or        ║
-     ║  https://canva.com — Dimensions: 1500×500px             ║
-     ║  Theme: Dark + Neon Blue/Purple gradient                 ║
-     ║  Text overlay: "Ajay Singh | Cloud Engineer"             ║
-     ╚══════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<!-- REPLACE src with your banner image URL hosted on GitHub or Imgur -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajay%20Singh&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20%26%20React%20Specialist&descAlignY=55&descSize=18" width="100%" alt="Ajay Singh Banner"/>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════
      §1 · HERO SECTION
@@ -27,47 +5,11 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=%F0%9F%9A%80+Cloud+Computing+Engineer;%E2%98%81%EF%B8%8F+AWS+%7C+GCP+Enthusiast;%F0%9F%96%A5%EF%B8%8F+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+DevOps+%7C+Docker+%7C+Kubernetes;%F0%9F%94%B7+Java+%26+React+Specialist;%F0%9F%8C%90+Building+Scalable+Cloud+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=%F0%9F%9A%80+Cloud+Computing+Engineer;%E2%98%81%EF%B8%8F+AWS+%7C+GCP+Enthusiast;%F0%9F%96%A5%EF%B8%8F+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+DevOps+%7C+Docker+%7C+Kubernetes;%F0%9F%94%B7+Java+%26+React+Specialist;%F0%9F%8C%90+Building+Scalable+Cloud+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- DEVELOPER PROFILE GIF — futuristic coding / cloud monitoring -->
-<!-- REPLACE this URL with a high-quality GIF from giphy.com or media.giphy.com -->
-<!-- Recommended GIF themes: server rack monitoring / futuristic HUD / code rain -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Cloud Developer GIF" style="border-radius: 12px;" />
-
-<br/><br/>
-
-<!-- SOCIAL BADGES — REPLACE href links with your actual profiles -->
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ajay-singh-9969a82a1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:inderajay82@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="52" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ajay1234-dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://portfolio-ajsh.vercel.app" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52" height="52" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="52" alt="Twitter"/>
-</a>
-</div>
-<br/><br/>
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=ajay1234-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ajay1234-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/ajay1234-dev?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub Followers"/>
 
 </div>
@@ -78,9 +20,10 @@
      §2 · ABOUT ME
      ══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://raw.githubusercontent.com/ajay1234-dev/ajay1234-dev/main/assets/banner.gif" width="50%" alt="Ajay Singh Banner" width="100" alt="Coder GIF"/>
-
 ## 👨‍💻 &nbsp;About Me
+
+<!-- GIF on the RIGHT side of About Me -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Cloud Developer GIF" style="border-radius: 12px;" />
 
 ```yaml
 name:         Ajay Singh
@@ -89,8 +32,7 @@ location:     India 🇮🇳
 open_to:      Full-time | Internships | Freelance
 ```
 
-Currently building **cloud-native, scalable full-stack applications** on AWS  
-
+🔭 &nbsp;Currently building **cloud-native, scalable full-stack applications** on AWS  
 🌱 &nbsp;Deepening expertise in **Kubernetes orchestration**, **microservices**, and **serverless architectures**  
 ⚡ &nbsp;Passionate about **DevOps culture**, CI/CD pipelines, and infrastructure-as-code  
 🎯 &nbsp;Career goal: **Cloud Solutions Architect** at a world-class tech company  
@@ -139,7 +81,7 @@ Currently building **cloud-native, scalable full-stack applications** on AWS
 
 </div>
 
-
+---
 
 <!-- ══════════════════════════════════════════════════════════
      §5 · GITHUB ANALYTICS
@@ -175,16 +117,9 @@ Currently building **cloud-native, scalable full-stack applications** on AWS
 
 ## 🐍 &nbsp;Contribution Snake
 
-<!-- 
-  ┌─────────────────────────────────────────────────────────────┐
-  │  SETUP INSTRUCTIONS (ONE-TIME):                            │
-  │                                                            │
-  │  1. Go to your repo: ajay1234-dev/ajay1234-dev             │
-  │  2. Create .github/workflows/snake.yml with content below  │
-  │  3. The snake SVG will auto-generate at the URL below      │
-  └─────────────────────────────────────────────────────────────┘
+<!--
+  SETUP — create .github/workflows/snake.yml in your profile repo:
 
-  ── snake.yml content ────────────────────────────────────────
   name: Generate Contribution Snake
   on:
     schedule:
@@ -206,7 +141,6 @@ Currently building **cloud-native, scalable full-stack applications** on AWS
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ─────────────────────────────────────────────────────────────
 -->
 
 <div align="center">
@@ -419,32 +353,24 @@ Currently building **cloud-native, scalable full-stack applications** on AWS
 
 <div align="center">
 
-<!-- REPLACE each href with your actual profile URLs -->
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ajay-singh-9969a82a1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="52" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+&nbsp;&nbsp;
+<a href="mailto:inderajay82@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="52" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;&nbsp;
+<a href="https://github.com/ajay1234-dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+&nbsp;&nbsp;
+<a href="https://portfolio-ajsh.vercel.app" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52" height="52" alt="Portfolio"/>
 </a>
-&nbsp;
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-View_Rank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="52" alt="Twitter"/>
 </a>
 
 <br/><br/>
@@ -473,22 +399,16 @@ Currently building **cloud-native, scalable full-stack applications** on AWS
 
 <br/>
 
-<!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
 
 </div>
 
 <!-- ============================================================
-     END OF README
-     
-     CHECKLIST — Replace these before publishing:
-     [ ] YOUR-LINKEDIN     → your LinkedIn username
-     [ ] YOUR-PORTFOLIO-URL → your portfolio website
-     [ ] YOUR-EMAIL@gmail.com → your email address
+     CHECKLIST — Replace before publishing:
+     [ ] YOUR-TWITTER      → your Twitter/X handle
      [ ] YOUR-LEETCODE     → your LeetCode username
      [ ] YOUR-HACKERRANK   → your HackerRank username
-     [ ] YOUR-TWITTER      → your Twitter/X handle
-     [ ] All demo links in project cards
-     [ ] All repo links in project cards
-     [ ] Set up snake.yml GitHub Action (see §6 comment block)
+     [ ] All YOUR-DEMO-LINK.com in project cards
+     [ ] Upload your GIF to assets/banner.gif in your repo
+     [ ] Set up snake.yml GitHub Action (see §6 comment)
      ============================================================ -->
